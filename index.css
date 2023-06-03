@@ -1,0 +1,32 @@
+.navbar{
+    position: sticky;
+    top:0;
+    z-index: 1000;
+    border-bottom: 1px solid white;
+}
+
+.main{
+    scroll-margin-top: 70px;
+    /* margin: 2rem;*/
+    padding: 6rem;
+    /* border: 2px solid black; */
+}
+.col-lg-4>.card{
+    border-color: white;
+}
+.card-header{
+    border-bottom-color: white;
+}
+.btn-dark:hover{
+    color:whitesmoke;
+    border:2px solid white;
+}
+.btn-dark{
+    color:whitesmoke;
+    border:2px solid white
+
+}
+.btn-outlined-light:hover{
+   border-radius: 1rem;
+}
+
